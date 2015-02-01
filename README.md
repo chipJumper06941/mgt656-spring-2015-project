@@ -16,6 +16,7 @@ To do that, you'll need to be on the Yale network, or on the Yale VPN.
 Then, you can do 
 
 	cd mgt656-project
+	random comment
 
 Then, you'll need to install the dependencies
 
