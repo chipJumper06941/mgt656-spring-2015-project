@@ -9,5 +9,5 @@ function about (request, response) {
 }
 
 module.exports = {
-  about: about
+  'about': about
 };
